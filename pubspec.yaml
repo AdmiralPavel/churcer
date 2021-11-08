@@ -37,8 +37,10 @@ flutter:
 flutter_icons:
   android: true
   ios: true
+  remove_alpha_ios: true
+  image_path: "assets/img/church.png"
   adaptive_icon_background: "#ffffff"
-  adaptive_icon_foreground: "assets/img/transparent_app_icon.png"
+  adaptive_icon_foreground: "assets/img/church.png"
 
 
   # To add assets to your application, add an assets section, like this:

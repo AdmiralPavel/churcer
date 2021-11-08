@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.churcher">
+    package="admiralty.churcher">
    <application
         android:label="churcher"
         android:icon="@mipmap/ic_launcher">
