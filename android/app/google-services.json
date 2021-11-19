@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971619613602",
+    "project_id": "churcher-78a74",
+    "storage_bucket": "churcher-78a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971619613602:android:a7eda49cfebaf8ab63d0fb",
+        "android_client_info": {
+          "package_name": "admiralty.churcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971619613602-2911i7evv2msqhe8628d1825j84aoql7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuL4fP2WQVTEOgqdODoTGx6UHTIJYVFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971619613602-2911i7evv2msqhe8628d1825j84aoql7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
